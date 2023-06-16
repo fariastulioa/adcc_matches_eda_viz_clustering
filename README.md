@@ -1,8 +1,9 @@
 # ADCC Matches EDA, visualizations and Clustering
 Analysis, visualizations and KMeans clustering using data from submission grappling matches of ADCC events from 1998 to 2022  
   
-Submission grappling (aka no-gi brazilian jiu jitsu) is a combat sport rising in popularity all over the world. Despite that, there's still a lack of publicly available data and data based analysis and studies. A training partner managed the daunting task of web scraping BJJ Heroes website for data on ADCC matches from 1998 to 2022 and through extensive cleaning and treating of the data, some interesting stats and trends could be identified and displayed graphically.
-Deep thanks to https://github.com/bjagrelli/adcc_dataset_analytics for the web scraping step and making this possible.
+Submission grappling (aka no-gi brazilian jiu jitsu) is a combat sport rising in popularity all over the world. Despite that, there's still a lack of publicly available data and data based analysis and studies. A training partner managed the daunting task of web scraping BJJ Heroes website for data on ADCC matches from 1998 to 2022 and through extensive cleaning and treating of the data, some interesting stats and trends could be identified and displayed graphically.  
+
+Deepest thanks to https://github.com/bjagrelli/adcc_dataset_analytics for the web scraping step and making this possible.
 
 
 This is an interactive Python notebook, which is also available on Kaggle where it can be directly run using any web browser.  
